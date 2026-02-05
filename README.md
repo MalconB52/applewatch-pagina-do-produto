@@ -2,14 +2,14 @@
 
 **Uma réplica interativa e responsiva da página de um produto Apple Watch. Desenvolvida com HTML5, CSS3 e JavaScript para criar uma experiência próxima do original.**
 
-![Screenshot da Página do Apple Watch](LINK_DA_SCREENSHOT_AQUI)
+<img width="1470" height="1262" alt="image" src="https://github.com/user-attachments/assets/fa5cd570-3bda-4081-a500-23c9cfa9c5df" />
 
 ## 📋 Sobre
 Clone interativo da página de apresentação de um Apple Watch. Este projeto foi além do design estático, implementando **funcionalidades dinâmicas com JavaScript** para simular a experiência real de customização de produto da Apple.
 
 ## 🚀 Demonstração & Código
-- **🌐 Site Online:** [Link do Deploy na Vercel/Netlify]
-- **📂 Código Fonte:** [https://github.com/MalconB52/applewatch-pagina-do-produto](https://github.com/MalconB52/applewatch-pagina-do-produto)
+- **🌐 Site Online:** (https://applewatch-pagina-do-produto-mb.vercel.app/)
+- **📂 Código Fonte:** (https://github.com/MalconB52/applewatch-pagina-do-produto)
 
 ## 🛠️ Stack Tecnológica
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,9 +68,6 @@ DOM Manipulation: Alteração dinâmica de elementos da página.
 Gestão de Eventos: Resposta a cliques e interações do usuário.
 
 Lógica de Aplicação: Implementação de funcionalidades complexas do zero.
-
-Desenvolvido por Malcon Barbosa
-Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-end e JavaScript
 
 Desenvolvido por Malcon Barbosa
 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-end e UI/UX
